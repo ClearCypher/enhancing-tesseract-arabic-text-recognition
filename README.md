@@ -12,4 +12,5 @@ The `ara.traineddata` file in this repository is the result of our fine-tuning p
 To use this fine-tuned model, download the `ara.traineddata` file and place it in your Tesseract 'tessdata' directory, replacing the existing Arabic trained data file. Then, simply run Tesseract as you normally would.
 
 ## Results
-The fine-tuned model demonstrated significant performance enhancements in recognizing most Arabic text types, specifically Arabic-indic digits, European digits, normal Arabic text, and Arabic text without diacritics. For more details about the research and results, refer to the research paper (TODO).
+The fine-tuned model demonstrated significant performance enhancements in recognizing most Arabic text types, specifically Arabic-indic digits, European digits, normal Arabic text, and Arabic text without diacritics. For more details about the research and results, refer to the [research paper](https://www.researchgate.net/publication/372507862_Advancing_Arabic_Text_Recognition_Fine-tuning_of_the_LSTM_Model_in_Tesseract_OCR?channel=doi&linkId=64bb096a8de7ed28bab5fe3b&showFulltext=true)
+.
